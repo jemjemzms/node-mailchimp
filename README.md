@@ -19,4 +19,4 @@ An newsletter signup app to add user to a list in a Mailchimp account.
 
 ## 💫 Demo
 
-[See Demo](http://link.ricdiaz.com)
+[See Demo](https://node-mailchimp.herokuapp.com)
