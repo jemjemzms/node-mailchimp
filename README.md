@@ -1,7 +1,7 @@
 # node-mailchimp
 
 ## What is this?
-An newsletter signup app to add user to a list in a Mailchimp account.
+A newsletter signup app to add user to a list in a Mailchimp account.
 
 ## Features
 
